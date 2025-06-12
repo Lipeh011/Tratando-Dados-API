@@ -44,7 +44,7 @@ Tudo isso usando apenas **JavaScript puro** e **manipulação direta do DOM**.
 ## Como Rodar o Projeto Localmente
 
 1 Clone o repositório:
-git clone https://github.com/Lipeh011/Tratando-Dados-APIs.git
+git clone https://github.com/Lipeh011/Tratando-Dados-API.git
 
 2 - Acesse a pasta do projeto:
 cd projeto-livraria
