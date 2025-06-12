@@ -44,20 +44,13 @@ Tudo isso usando apenas **JavaScript puro** e **manipulação direta do DOM**.
 ## Como Rodar o Projeto Localmente
 
 
-```bash
-
-1. Clone o repositório:
+# 1. Clone o repositório:
 git clone https://github.com/seu-usuario/nome-do-repo.git
 
-2 - Acesse a pasta do projeto:
-
-bash
+# 2 - Acesse a pasta do projeto:
 cd projeto-livraria
-3 - Abra o index.html no navegador (clique duplo ou use uma extensão como Live Server no VSCode).
+# 3 - Abra o index.html no navegador (clique duplo ou use uma extensão como Live Server no VSCode).
 ---
-
-´´´bash
-fdf
 
 
 
