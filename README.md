@@ -56,7 +56,7 @@ cd projeto-livraria
 3 - Abra o index.html no navegador (clique duplo ou use uma extensão como Live Server no VSCode).
 ---
 
-´´´
+´´´bash
 fdf
 
 
