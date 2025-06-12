@@ -41,7 +41,6 @@ Tudo isso usando apenas **JavaScript puro** e **manipulação direta do DOM**.
 - **Cálculo do valor total** dos livros disponíveis
 
 ---
-
 ## Como Rodar o Projeto Localmente
 
 1. Clone o repositório:
@@ -55,18 +54,9 @@ bash
 cd projeto-livraria
 3 - Abra o index.html no navegador (clique duplo ou use uma extensão como Live Server no VSCode).
 ---
-## Conceitos Aprendidos
-Este projeto reforça:
 
-- A estrutura de projetos front-end sem frameworks
-- Manipulação completa do DOM com JavaScript puro
-- Funções assíncronas com async/await
-- Aplicações práticas dos métodos de array modernos
-- Separação de responsabilidades com arquivos modulares
-
-## Breve imagem:
-
-![](https://media.discordapp.net/attachments/1250289117909090375/1382761811773755463/image.png?ex=684c54ca&is=684b034a&hm=d68960fbdbb966b5517f9f64ecdc05e6820ec39bfe631506389c8627a7627e5d&=&format=webp&quality=lossless&width=1194&height=597)
+´´´
+fdf
 
 
 
