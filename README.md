@@ -43,9 +43,10 @@ Tudo isso usando apenas **JavaScript puro** e **manipulação direta do DOM**.
 ---
 ## Como Rodar o Projeto Localmente
 
-1. Clone o repositório:
 
 ```bash
+
+1. Clone o repositório:
 git clone https://github.com/seu-usuario/nome-do-repo.git
 
 2 - Acesse a pasta do projeto:
