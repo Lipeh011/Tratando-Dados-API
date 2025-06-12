@@ -32,7 +32,7 @@ Tudo isso usando apenas **JavaScript puro** e **manipulação direta do DOM**.
 
 ## Funcionalidades
 
-- **Consumo de API:** Requisição à [API da Casa do Código](https://guilhermeonrails.github.io/casadocodigo/livros.json)
+- **Consumo de API:** Requisição à API json)
 - **Aplicação automática de desconto** de 30% sobre todos os preços
 - **Exibição dinâmica dos livros** na tela com base nos dados da API
 - **Filtro por categoria** de livros
