@@ -54,7 +54,7 @@ git clone https://github.com/seu-usuario/nome-do-repo.git
 bash
 cd projeto-livraria
 3 - Abra o index.html no navegador (clique duplo ou use uma extensão como Live Server no VSCode).
-
+---
 ## Conceitos Aprendidos
 Este projeto reforça:
 
