@@ -61,6 +61,7 @@ Este projeto reforça:
 - Aplicações práticas dos métodos de array mais usados no mercado
 - Separação de responsabilidades com arquivos modulares
 
+--- 
 ## Preview
 ![Preview](https://media.discordapp.net/attachments/1250289117909090375/1382761811773755463/image.png?ex=684c54ca&is=684b034a&hm=d68960fbdbb966b5517f9f64ecdc05e6820ec39bfe631506389c8627a7627e5d&=&format=webp&quality=lossless&width=1194&height=597)
 
